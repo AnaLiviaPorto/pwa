@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pwa/static/css/main.b100e6da.chunk.css",
+    "main.js": "/pwa/static/js/main.f0d4717c.chunk.js",
+    "main.js.map": "/pwa/static/js/main.f0d4717c.chunk.js.map",
+    "runtime-main.js": "/pwa/static/js/runtime-main.bf086889.js",
+    "runtime-main.js.map": "/pwa/static/js/runtime-main.bf086889.js.map",
+    "static/css/2.0624914a.chunk.css": "/pwa/static/css/2.0624914a.chunk.css",
+    "static/js/2.b788500a.chunk.js": "/pwa/static/js/2.b788500a.chunk.js",
+    "static/js/2.b788500a.chunk.js.map": "/pwa/static/js/2.b788500a.chunk.js.map",
+    "index.html": "/pwa/index.html",
+    "precache-manifest.77d1f22fa47d92f13cd819f9d5cc8965.js": "/pwa/precache-manifest.77d1f22fa47d92f13cd819f9d5cc8965.js",
+    "service-worker.js": "/pwa/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/pwa/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/pwa/static/css/main.b100e6da.chunk.css.map",
+    "static/media/light-off.png": "/pwa/static/media/light-off.c72ad33f.png",
+    "static/media/light-on.png": "/pwa/static/media/light-on.50bb0c20.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf086889.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.b788500a.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.f0d4717c.chunk.js"
+  ]
+}
